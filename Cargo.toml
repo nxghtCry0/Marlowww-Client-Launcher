@@ -1,8 +1,19 @@
 [package]
 name = "marlowww-client-launcher"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2024"
 license-file = "LICENSE"
 
 [dependencies]
 freya = "0.5.3"
+rfd = "0.17"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+ureq = { version = "2.12", features = ["json"] }
+open = "5"
+async-channel = "2.5"
+zip = { version = "9.8", default-features = false, features = ["deflate-flate2"] }
+rusqlite = { version = "0.43", default-features = false, features = ["bundled"] }
+
+[dev-dependencies]
+freya-testing = "0.5.3"
