@@ -45,25 +45,7 @@
             <stop offset="0.5" stop-color="#fff" stop-opacity="0.85" />
             <stop offset="1" stop-color="#fff" stop-opacity="0" />
         </linearGradient>
-        <clipPath id="t"><text font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace'
-                font-size="16" xml:space="preserve">
-                <tspan x="24" y="37.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">███╗ ███╗ █████╗ ██████╗ ██╗
-                    ██████╗ ██╗ ██╗██╗ ██╗██╗ ██╗ ██████╗██╗ ██╗███████╗███╗ ██╗████████╗</tspan>
-                <tspan x="24" y="53.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">████╗
-                    ████║██╔══██╗██╔══██╗██║ ██╔═══██╗██║ ██║██║ ██║██║ ██║ ██╔════╝██║ ██║██╔════╝████╗ ██║╚══██╔══╝
-                </tspan>
-                <tspan x="24" y="69.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">
-                    ██╔████╔██║███████║██████╔╝██║ ██║ ██║██║ █╗ ██║██║ █╗ ██║██║ █╗ ██║ ██║ ██║ ██║█████╗ ██╔██╗ ██║
-                    ██║ </tspan>
-                <tspan x="24" y="85.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">
-                    ██║╚██╔╝██║██╔══██║██╔══██╗██║ ██║ ██║██║███╗██║██║███╗██║██║███╗██║ ██║ ██║ ██║██╔══╝ ██║╚██╗██║
-                    ██║ </tspan>
-                <tspan x="24" y="101.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">██║ ╚═╝ ██║██║ ██║██║
-                    ██║███████╗╚██████╔╝╚███╔███╔╝╚███╔███╔╝╚███╔███╔╝ ╚██████╗███████╗██║███████╗██║ ╚████║ ██║
-                </tspan>
-                <tspan x="24" y="117.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">╚═╝ ╚═╝╚═╝ ╚═╝╚═╝
-                    ╚═╝╚══════╝ ╚═════╝ ╚══╝╚══╝ ╚══╝╚══╝ ╚══╝╚══╝ ╚═════╝╚══════╝╚═╝╚══════╝╚═╝ ╚═══╝ ╚═╝ </tspan>
-            </text></clipPath>
+        <clipPath id="t"><text font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace' font-size="16" xml:space="preserve" style="white-space:pre"><tspan x="24" y="37.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">███╗   ███╗ █████╗ ██████╗ ██╗      ██████╗ ██╗    ██╗██╗    ██╗██╗    ██╗     ██████╗██╗     ██╗███████╗███╗   ██╗████████╗</tspan><tspan x="24" y="53.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">████╗ ████║██╔══██╗██╔══██╗██║     ██╔═══██╗██║    ██║██║    ██║██║    ██║    ██╔════╝██║     ██║██╔════╝████╗  ██║╚══██╔══╝</tspan><tspan x="24" y="69.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">██╔████╔██║███████║██████╔╝██║     ██║   ██║██║ █╗ ██║██║ █╗ ██║██║ █╗ ██║    ██║     ██║     ██║█████╗  ██╔██╗ ██║   ██║   </tspan><tspan x="24" y="85.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║██║███╗██║██║███╗██║██║███╗██║    ██║     ██║     ██║██╔══╝  ██║╚██╗██║   ██║   </tspan><tspan x="24" y="101.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">██║ ╚═╝ ██║██║  ██║██║  ██║███████╗╚██████╔╝╚███╔███╔╝╚███╔███╔╝╚███╔███╔╝    ╚██████╗███████╗██║███████╗██║ ╚████║   ██║   </tspan><tspan x="24" y="117.1" textLength="1190.4" lengthAdjust="spacingAndGlyphs">╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚══╝╚══╝  ╚══╝╚══╝  ╚══╝╚══╝      ╚═════╝╚══════╝╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   </tspan></text></clipPath>
         <clipPath id="r">
             <rect class="rv" x="0" y="0" width="1239" height="144" />
         </clipPath>
